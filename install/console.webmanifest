@@ -1,0 +1,31 @@
+{
+  "id": "/console",
+  "name": "Remote Ordering: Velín",
+  "short_name": "Velín",
+  "description": "Heidelberg Materials: concrete ordered without a phone call.",
+  "lang": "cs",
+  "start_url": "/console",
+  "scope": "/console",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#ffffff",
+  "theme_color": "#004E2B",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
